@@ -95,3 +95,4 @@ C:\Users\conta\programacao\asp.net\HelloWorld\HelloWorld\obj\Debug\net10.0\Hello
 C:\Users\conta\programacao\asp.net\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.genruntimeconfig.cache
 C:\Users\conta\programacao\asp.net\HelloWorld\HelloWorld\obj\Debug\net10.0\ref\HelloWorld.dll
 C:\Users\conta\programacao\asp.net\HelloWorld\HelloWorld\obj\Debug\net10.0\compressed\fh1nprwe65-{0}-e0eczwmrym-e0eczwmrym.gz
+C:\Users\conta\programacao\asp.net\HelloWorld\HelloWorld\obj\Debug\net10.0\HelloWorld.sourcelink.json
